@@ -9,6 +9,7 @@ def choice(word_list):
     selected_word = random.choice(word_list)
     return selected_word
 
+selected_word = choice(word_list)
 print(f'Random choice fruit is: {choice(word_list)}')
 # user input single letter
 guess_letter = input('Please enter a single letter: ')
