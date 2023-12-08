@@ -8,14 +8,14 @@
 5. [Functions I Used](#functions-i-used)
 
    
-## Introduction
+## 1. Introduction
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it.
 
-## Installation Instructions
+## 2. Installation Instructions
 In this project, we use GitHub to track changes to our code and save them online in a GitHub repo. 
 
-## Usage Instruction
+## 3. Usage Instruction
 
    1. Run Milestone_5.py programme to open the Hangman game app.
    2. Enter the first letter (guess) you want to check using your keyboard.
@@ -24,7 +24,7 @@ In this project, we use GitHub to track changes to our code and save them online
    5. You can enter any particular letter only once.
    6. If there are duplicate letters in the word, you need to enter that letter only once.
 
-## What I Have Learned
+## 4. What I Have Learned
   - use of built-in module random and how to choose a random word from list of words
   - use of functions
   - Use of contional statements and loops
@@ -33,7 +33,7 @@ In this project, we use GitHub to track changes to our code and save them online
   - use of git and Github
   - use of docstrings
 
-## Functions I Used
+## 5. Functions I Used
   - check_guess(guess) - Function to check whether checks if the a particular letter is in the word.. 
   - ask_for_input(): - Function to take an input and validate it as follows.
     - Whether is alphabetic character
