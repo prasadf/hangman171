@@ -25,19 +25,21 @@ In this project, we use GitHub to track changes to our code and save them online
    6. If there are duplicate letters in the word, you need to enter that letter only once.
 
 ## What I Have Learned
-  - use of built-in module random
-  - how to choose a random word from list of words
-  - use of input() function
-  - use of if - else to validate user input
+  - use of built-in module random and how to choose a random word from list of words
+  - use of functions
+  - Use of contional statements and loops
   - use of lists and sets
+  - use of object oriented programming concept
+  - use of git and Github
+  - use of docstrings
 
 ## Functions I Used
-  - def check_guess(guess) - Function to check whether the guessed character is in the random word.
-    
-  - def ask_for_input(): - Function to take an input and validate it as follows.
+  - check_guess(guess) - Function to check whether checks if the a particular letter is in the word.. 
+  - ask_for_input(): - Function to take an input and validate it as follows.
     - Whether is alphabetic character
     - Whether the length of the input is 1
     - call check_guess() function.
+   play_game(word_list) - Function is used to run all code to play the game.
    
 
                            
