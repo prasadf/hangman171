@@ -29,6 +29,7 @@ In this project, we use GitHub to track changes to our code and save them online
   - use of functions
   - Use of contional statements and loops
   - use of lists and sets
+  - Python coding
   - use of object oriented programming concept
   - use of git and Github
   - use of docstrings
