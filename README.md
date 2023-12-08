@@ -1,7 +1,7 @@
 # Project Title: Hangman Project
 # Table of contents
 1. [Introduction](#Introduction)
-2. [Installation](#Installation)
+2. [Installation instruction](#Installation)
    
 # Hangman
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
