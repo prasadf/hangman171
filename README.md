@@ -1,6 +1,6 @@
 # Project Title: Hangman Project
 # Table of contents
-1. [Introduction](#Introduction)
+1. [Introduction](#Introduction) 
 2. [Installation instructions](#Installation instructions)
 3. [Usage instructions](#Usage instructions)
 4. [What I have learned](#What I have learned)
