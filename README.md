@@ -1,10 +1,12 @@
 # Project Title: Hangman Project
 # Table of contents
-1. [Introduction](#Introduction)
-2. [Installation instructions](#Installation instructions)
-3. [Usage instructions](#Usage installation)
-4. [What I have learned](#What I have learned)
-5. [Functions I used](#Functions I used)
+
+1. [Introduction](#introduction)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage Instructions](#usage-instructions)
+4. [What I Have Learned](#what-i-have-learned)
+5. [Functions I Used](#functions-i-used)
+
    
 # Hangman
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
