@@ -24,14 +24,14 @@ In this project, we use GitHub to track changes to our code and save them online
    5. You can enter any particular letter only once.
    6. If there are duplicate letters in the word, you need to enter that letter only once.
 
-## What I have learned
+## What I Have Learned
   - use of built-in module random
   - how to choose a random word from list of words
   - use of input() function
   - use of if - else to validate user input
   - use of lists and sets
 
-## Functions I used
+## Functions I Used
   - def check_guess(guess) - Function to check whether the guessed character is in the random word.
     
   - def ask_for_input(): - Function to take an input and validate it as follows.
